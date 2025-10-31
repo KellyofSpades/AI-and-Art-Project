@@ -12,3 +12,33 @@ a
     font-family: "Trebuchet MS", monospace;
     font-size: 20px;
 }
+img#Spades
+{
+    height: 15%;
+    width: 15%;
+}
+img#ChatGPTSpade
+{
+    height: 13%;
+    width: 13%;
+}
+img#CopilotSpade
+{
+    height: 11%;
+    width: 11%;
+}
+img#ImagineArtSpade
+{
+    height: 10%;
+    width: 27%;
+}
+li
+{
+    font-family: "Trebuchet MS", monospace;
+    font-size: 20px;
+}
+div.flex
+{
+    display: flex;
+    padding-left: 2em;
+}

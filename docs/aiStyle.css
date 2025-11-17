@@ -45,8 +45,21 @@ img#ChatAgil
 }
 img#AgilKilo
 {
+    padding-left: 3em;
     height: 50%;
     width: 50%;
+}
+img#CopilotAgil
+{
+    padding-left: 3em;
+    height: 30%;
+    width: 30%;
+}
+img#ImagineAgil
+{
+    padding-left: 3em;
+    height: 30%;
+    width: 30%;
 }
 img#Noelle
 {

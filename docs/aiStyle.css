@@ -1,13 +1,18 @@
 body
 {
-    background-color: #FFC121;
+    background-color: #C7C2C1;
 }
 p
 {
-    font-family: "Trebuchet MS", monospace;
+    font-family: "Tahoma", monospace;
     font-size: 20px;
 }
 a
+{
+    font-family: "Tahoma", monospace;
+    font-size: 20px;
+}
+li
 {
     font-family: "Trebuchet MS", monospace;
     font-size: 20px;
@@ -32,13 +37,61 @@ img#ImagineArtSpade
     height: 10%;
     width: 27%;
 }
-li
+img#ChatAgil
 {
-    font-family: "Trebuchet MS", monospace;
-    font-size: 20px;
+    padding-left: 3em;
+    height: 30%;
+    width: 30%;
+}
+img#AgilKilo
+{
+    height: 50%;
+    width: 50%;
+}
+img#Noelle
+{
+    padding-left: 17em;
+    height: 100%;
+    width: 40%;
+}
+img#CocaCola
+{
+    height: 50%;
+    width: 110%;
+}
+img#Disney
+{
+    height: 90%;
+    width: 80%;
+}
+img#ChuckECheese
+{
+    height: 80%;
+    width: 100%;
+}
+img#BadGuys2
+{
+    padding-left: 17em;
+    height: 100%;
+    width: 90%;
+}
+img#CupheadFanart
+{
+    height: 100%;
+    width: 90%;
+}
+img#AgilNapkin
+{
+    height: 100%;
+    width: 40%;
+}
+img#AgilMatches
+{
+    height: 90%;
+    width: 40%;
 }
 div.flex
 {
     display: flex;
-    padding-left: 2em;
+    padding-left: 1em;
 }

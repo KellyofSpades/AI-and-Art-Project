@@ -1,21 +1,55 @@
 body
 {
     background-color: #C7C2C1;
+    margin: 0.5rem 1rem;
 }
 p
 {
     font-family: "Tahoma", monospace;
     font-size: 20px;
+    margin: 0.5rem 1rem;
 }
 a
 {
-    font-family: "Tahoma", monospace;
+    font-family: "Verdana", monospace;
     font-size: 20px;
+}
+a:hover 
+{
+  color: white;
+}
+h1
+{
+    font-family: "Verdana", monospace;
+    text-decoration: underline;
+}
+h2
+{
+    font-family: "Verdana", monospace;
 }
 li
 {
     font-family: "Trebuchet MS", monospace;
     font-size: 20px;
+    font-weight: bold;
+}
+div.border
+{
+    border: 0.125rem solid black;
+}
+div.warning
+{
+    border: 0.3rem solid red;
+}
+div.flex
+{
+    display: flex;
+    padding-left: 25em;
+}
+section.warning
+{
+    color: red;
+    text-decoration: underline;
 }
 img#Spades
 {
